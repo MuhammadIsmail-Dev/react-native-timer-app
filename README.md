@@ -2,12 +2,13 @@
 
 A simple cross platform (iOS and Android) React Native timer app.
 
-![Demo Select](./assets/ss/ssScreen1.jpeg) ![Demo Select](./assets/ss/ssScreen2.jpeg)
-![Demo Select](./assets/ss/ssScreen3.jpeg) ![Demo Select](./assets/ss/ssScreen4.jpeg)
+<img src="./assets/ss/ssScreen1.jpeg" alt="drawing" width="350"/> <img src="./assets/ss/ssScreen2.jpeg" alt="drawing" width="350"/>
+<img src="./assets/ss/ssScreen3.jpeg" alt="drawing" width="350"/>
+<img src="./assets/ss/ssScreen4.jpeg" alt="drawing" width="350"/>
 
 ### Installation
 
-- `git clone https://github.com/ReactNativeSchool/react-native-timer`
+- `git clone https://github.com/MuhammadIsmail-Dev/react-native-timer-app`
 - `yarn install`/`npm install`
 
 ### Running
