@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "Blank Template",
+    "name": "Timer",
     "slug": "Timer",
     "privacy": "public",
     "sdkVersion": "36.0.0",
@@ -14,8 +14,14 @@
     "icon": "./assets/icon.png",
     "splash": {
       "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "resizeMode": "cover",
+      "backgroundColor": "#fff"
+    },
+    "androidStatusBar": {
+      "translucent": false,
+      "hidden": false,
+      "backgroundColor": "#89AAFF",
+      "barStyle": "light-content"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -24,7 +30,12 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "bundleIdentifier": "com.ismail.Timer",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.ismail.Timer",
+      "versionCode": 1
     }
   }
 }
