@@ -2,8 +2,8 @@
 
 A simple cross platform (iOS and Android) React Native timer app.
 
-![Demo Select](./assets/select.png)
-![Demo Count](./assets/countdown.png)
+![Demo Select](./assets/ss/ssScreen1.jpeg) ![Demo Select](./assets/ss/ssScreen2.jpeg)
+![Demo Select](./assets/ss/ssScreen3.jpeg) ![Demo Select](./assets/ss/ssScreen4.jpeg)
 
 ### Installation
 
